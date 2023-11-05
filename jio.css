@@ -1,0 +1,608 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.main {
+    width: 100%;
+    height: 90px;
+    background-color: blue;
+}
+
+.h1 {
+    background-color: darkblue;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: -40px;
+    font-size: 25px;
+}
+
+nav {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+ul {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    font-size: 20px;
+}
+.profile{
+    color:blue;
+    background-color: white;
+    width: 17px;
+    padding: 5px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+.search{
+    border-radius: 15px;
+    background-color: rgb(53, 69, 141);
+    
+}
+.body1{
+    margin-top: -20px;
+}
+
+.img {
+    width: 100%;
+}
+
+.body {
+    position: absolute;
+    top: 5%;
+    color: white;
+    padding-left: 50px;
+}
+
+.head {
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+.btn {
+    color: white;
+    background-color: blue;
+    border-radius: 45%;
+    font-size: 20px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.btn1 {
+    border-radius: 50%;
+    font-size: 15px;
+    padding: 15px;
+    cursor: pointer;
+}
+.one{
+    width: 100%;
+    height: 200px;
+}
+.icons{
+    margin-top: 70px;
+    margin-left: 400px;
+    display: flex;
+    gap: 80px;
+    font-size: 30px;
+    color: blue;
+}
+.pic{
+    width: 95%;
+    height: 350px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: -80px;
+}
+.pic1{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -700px;
+}
+.h2{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 400px;
+    font-size: 50px;
+    color: white;
+}
+.btn2{
+    background-color: antiquewhite;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -700px;
+    padding: 1%;
+    border-radius: 30px;
+    color: red;
+}
+.btn2:hover{
+   background-color: orange;
+    cursor: pointer;
+    color: white;
+}
+.para1{
+    margin-left: 400px;
+    margin-top: -20px;
+}
+.h3{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.para2{
+    margin-top: -40px;
+    margin-left: 20px;
+}
+.three{
+    margin-top: 30px;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(207, 76, 97);
+}
+.pic2{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.h4{
+    color: white;
+    margin-left: 70px;
+}
+.btn3{
+    margin-left: 70px;
+    border-radius: 15px;
+    padding: 10px;
+    color: purple;
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn3:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.vid{
+    width: 100%;
+    height: 480px;
+    margin-left: 100px; 
+    margin-top: -350px;   
+}
+.four{
+    width: 100%;
+    height: 500px;
+}
+.btn4{
+    margin-left: 600px;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 10px;
+    color: blue;
+    font-size: 15px;
+}
+.btn4:hover{
+    border-color: blue;
+    cursor: pointer;
+}
+.h5{
+    margin-left: 500px;
+    font-size: 60px;
+    margin-top: 80px;
+}
+.para3{
+    margin-left: 550px;
+    margin-top: -35px;
+    margin-bottom: 40px;
+}
+.four{
+    width: 80%;
+    height: 400px;
+    background-color: slateblue;
+    color: white;
+    padding-left: 80px;
+    padding-top: 50px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+.btn5{
+    background-color: slateblue;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: white;
+}
+.h7{
+    margin-bottom: -35px;
+    margin-top: 45px;
+}
+.h6{
+    font-size: 50px;
+}
+.h8{
+    margin-top: -30px;
+}
+.pic3{
+    position: absolute;
+    margin-top: -342px;
+    width: 630px;
+    height: 433px;
+    margin-left: 410px;
+    border-radius: 13px;
+}
+.five{
+    display: flex;
+
+}
+.img1{
+    width: 350px;
+    height: 300px;
+    margin-left: 100px;
+    border-radius: 25px;
+    margin-top: 100px;
+}
+.h9{
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 100px;
+    padding-left: 50px;
+    margin-top: -10px;
+    height: 150px;
+}
+.btn6{
+    color: purple;
+    background-color: lightblue;
+    margin-left: 150px;
+    position: absolute;
+    margin-top: -70px;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 8px;
+}
+.btn6:hover{
+    cursor: pointer;
+    background-color: rgb(192, 222, 232);
+}
+.img2{
+    width: 350px;
+    height: 300px;
+    margin-left: 30px;
+    border-radius: 25px;
+    margin-top: 100px;
+}
+.img3{
+    width: 350px;
+    height: 300px;
+    margin-left: 30px;
+    border-radius: 25px;
+    margin-top: 100px;
+}
+.h10{
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 33px;
+    padding-left: 50px;
+    margin-top: -10px;
+    height: 150px;
+}
+.btn7{
+    color: purple;
+    background-color: lightblue;
+    margin-left: 80px;
+    position: absolute;
+    margin-top: -70px;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 8px;
+}
+.btn7:hover{
+    cursor: pointer;
+    background-color: rgb(192, 222, 232);
+}
+.h11{
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 33px;
+    padding-left: 50px;
+    margin-top: -10px;
+    height: 150px;
+}
+.btn8{
+    color: purple;
+    background-color: lightblue;
+    margin-left: 80px;
+    position: absolute;
+    margin-top: -70px;
+    font-size: 15px;
+    border-radius: 18px;
+    padding: 8px;
+}
+.btn8:hover{
+    cursor: pointer;
+    background-color: rgb(192, 222, 232);
+}
+.h12{
+    font-size: 60px;
+    margin-left: 400px;
+}
+.para4{
+    margin-left: 470px;
+    margin-top: -35px;
+}
+.six{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 70px;
+    gap: 20px;
+}
+.image1{
+    border: 1px solid grey;
+    border-radius: 30px;
+    width: 350px;
+    
+}
+.image1:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 2px grey;
+}
+.image2{
+    border: 1px solid grey;
+    border-radius: 30px;
+    width: 400px;
+}
+.image2:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 2px grey;
+}
+.image3{
+    border: 1px solid grey;
+    border-radius: 30px;
+    width: 400px;
+}
+.image3:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 2px grey;
+}
+.h13{
+    color: white;
+    background-color: darkblue;
+    width: 80px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 3px;
+    margin-left: 50px;
+}
+
+.h14{
+    margin-left: 50px;
+}
+.image33{
+    padding-top: 50px;
+}
+.h15{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.btn9{
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 18px;
+    padding: 10px;
+    color: blue;
+    font-size: 15px;
+}
+.btn9:hover{
+    border-color: blue;
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+}
+.seven{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.h16{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+    font-size: 80px;
+}
+.para5{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 300px;
+    color: white;
+    font-size: 25px;
+}
+.btn10{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 100px;
+    color: white;
+    background-color: blue;
+    border-radius: 18px;
+    font-size: 15px;
+    padding: 10px;
+}
+.btn10:hover{
+    cursor: pointer;
+    background-color: rgb(94, 94, 195);
+}
+.pic4{
+    border-radius: 15px;
+}
+.eight{
+    background-color: aliceblue;
+    width: 100%;
+    height: 750px;
+    margin-top: 50px;
+}
+.h17{
+    margin-left: 500px;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.para6{
+    margin-left: 550px;
+    font-size: 15px;
+    margin-top: -25px;
+}
+.nine{
+    display: flex;
+    margin-left: -30px;
+}
+.pic5{
+    width: 400px;
+    margin-left: 70px;
+    border-radius: 20px;
+    height: 250px;
+}
+.ten{
+    margin-left: 70px;
+    background-color: white;
+    width: 380px;
+    margin-top: -10px;
+    height: 170px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.btn11{
+    color: blue;
+    font-size: 15px;
+    border-radius: 18px;
+    padding: 5px;
+    border-color: white;
+}
+.btn11:hover{
+    cursor: pointer;
+    background-color: gray;
+}
+.eleven{
+    margin-left: -15px;
+}
+.eleven1{
+    margin-left: -50px;
+}
+.eleven2{
+    margin-left: -50px;
+}
+.twelve{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.h18{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 60px;
+    color: white;
+    font-size: 60px;
+}
+.para7{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 330px;
+    color: white;
+    font-size: 25px;
+}
+.btn12{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 30px;
+    color: white;
+    background-color: blue;
+    border-radius: 18px;
+    font-size: 15px;
+    padding: 10px;
+}
+.btn12:hover{
+    cursor: pointer;
+    background-color: rgb(94, 94, 195);
+}
+.pic6{
+    border-radius: 15px;
+    width: 1200px;
+    margin-top: 30px;
+    margin-left: -35px;
+}
+.thirteen{
+    width: 100%;
+    height: 330px;
+    margin-top: 70px;
+    background-color: blue;
+}
+.h19{
+    margin-left: 500px;
+    padding-top: 50px;
+    font-size: 60px;
+    color: white;
+}
+.para8{
+    color: white;
+    margin-left: 580px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.fourteen{
+    margin-left: 350px;
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+}
+.btn13{
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: grey;
+}
+.btn13:hover{
+    cursor: pointer;
+    border-color: white;
+    color: white;
+    background-color: black;
+}
+.btn14:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.span:hover{
+    cursor: pointer;
+    color: blue;
+    background-color: white;
+}
+.span1:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+}
+@media screen and (max-width:768px) {
+    .h3{
+        background-color: red;
+        color: white;
+    }
+}
+@media screen and (max-width:425px) {
+    .h3{
+        background-color: green;
+        color: white;
+    }
+}
